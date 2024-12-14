@@ -21,7 +21,7 @@ leg_control: torque
 action_scale: 1.0
 
 # H1
-default_vx: 0.8
+default_vx: 0.4
 default_vy: 0.0
 default_vyaw: 0.0
 ramp_up_time: 3.0
